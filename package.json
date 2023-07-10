@@ -14,11 +14,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "chalk": "^5.3.0",
-        "inquirer": "^9.2.7",
-        "svg-logo-maker": "^1.0.7"
-    },
-    "devDependencies": {
-        "nodemon": "^2.0.4"
+        "inquirer": "^8.2.4",
+        "jest": "^29.6.1"
     }
 }
