@@ -1,0 +1,24 @@
+{
+    "name": "svggen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "engines": {
+        "node": "18.16.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.7",
+        "svg-logo-maker": "^1.0.7"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
