@@ -24,7 +24,7 @@ Run the following command to use the program
 ```bash
 node index.js
 ```
-
+SVG files have some default values for the colors, but you can also just use a hex code to get any color you want
 ## Testing
   add soon idk
 <!-- ## Contribution -->
